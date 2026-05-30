@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productcalculate",
+        "uuid": 6471650,
+        "checksum": "ggw6o"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
